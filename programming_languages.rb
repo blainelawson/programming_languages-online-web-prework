@@ -32,19 +32,6 @@ def reformat_languages(languages)
   
   new_hash
 
-  # languages.each do |style, language_hash|
-  #   # binding.pry
-  #   language_hash.each do |language, attributes|
-  #     binding.pry
-  #     new_hash[language] = {style: style}
-  #     new_hash[language] = attributes
-  #     # binding.pry
-
-  #   end
-  #   # binding.pry
-  #   new_hash
-  # end
-
 
 end
 
